@@ -1,0 +1,16 @@
+.sportList {
+  padding: 16px;
+  margin: 8px;
+  background-color: white;
+  border-bottom: 2px solid #2C568C;
+}
+
+.medalListWrapper {
+  padding: 16px 0;
+}
+
+@media (min-width: 678px) {
+  .medalListWrapper {
+    display: flex;
+  }
+}
